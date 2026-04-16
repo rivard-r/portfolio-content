@@ -18,7 +18,11 @@ Kubernetes is overkill for a 6-node Pi cluster — the control plane alone satur
 - **Health**: Gossip-based failure detection with configurable phi accrual threshold
 
 ## Photo Demo
-![Demonstration Photo](/media/pi-scheduler/000008630005.jpg)
+
+<figure>
+    <img src="/media/pi-scheduler/000008630005.jpg" alt="Film Photo" style="width:100%">
+    <figcaption>Fig.1 - Black and white film.</figcaption>
+</figure>
 
 ## Video Demo
 <video controls width="100%" preload="metadata">
