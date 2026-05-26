@@ -1,7 +1,7 @@
 ---
 title: Metal Powder Aerosolizer for Cost Spray Printing 
 date: 2023-12-15
-tags:[CFD, Vibration, ]
+tags: [CFD, Vibration]
 thumbnail_color: "#1c1c1c"
 summary: Capstone project enabling the consistent controlled aerosolization of 0.5-10 micron diameter metalic ppowders. Won best ME capstone of graduating class. 
 status: complete

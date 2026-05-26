@@ -1,7 +1,7 @@
 ---
 title: Bomb Calorimeter
 date: 2020-02-15
-tags:[Project Karman, Ignition Testing]
+tags: [Project Karman, Ignition Testing]
 thumbnail_color: "#1c1c1c"
 summary: Designed custom scientific tooling for rocket motor ignition studies.  
 status: complete
