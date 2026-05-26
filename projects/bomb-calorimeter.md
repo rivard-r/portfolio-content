@@ -12,10 +12,10 @@ The goal of Project Karman at Northeastern was to be the first collegiate rocket
 
 <div class="image-container">
     <div class="image-wrapper">
-        <img src="/mnt/nas-share/ryan/ryan-projects/Website Media/Tardigrade_Collapsed_View.JPG" alt="Bomb calorimeter assembled view">
+        <img src="/media/Website Media/Tardigrade_Collapsed_View.JPG" alt="Bomb calorimeter assembled view">
     </div>
     <div class="image-wraper">
-        <img src="/mnt/nas-share/ryan/ryan-projects/Website Media/Tardigrade_Exploded_Render.JPG" alt="Bomb calormieter exploded view">
+        <img src="/media/Website Media/Tardigrade_Exploded_Render.JPG" alt="Bomb calormieter exploded view">
     </div>
 </div>
     

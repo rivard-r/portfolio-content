@@ -16,7 +16,7 @@ To attain a L2 cert, the individual must first complete the L1 process of entire
 To save both time and money I decided to design a rocket capable of flying safely on both the maximum allowed L1 motor and the minimum required L2 motor without any changes to the body. I started this process by creating a cross sectional model of the rocket to get a rough idea of layout, an approximation of the rocket's center of gravity and center of pressure, and necessary thrust loading.
 
 <figure>
-    <img src="/mnt/nas-share/ryan/ryan-projects/Website Media/OR L1.PNG" alt="L1 Open Rocket" style="width:100%">
+    <img src="/media/Website Media/OR L1.PNG" alt="L1 Open Rocket" style="width:100%">
     <figcaption>Fig 1. Initial OpenRocket 2D simulation of the rocket airframe including dummy masses and placeholder fins.</figcaption>
 </figure>
 
@@ -25,7 +25,7 @@ The airframe was designed with an extra long upper parachute bay to accommodate 
 Following this blueprint I purchased materials and began assembly of the known finalized sections including the parachute bays and electronics bay. The electronics bay was composed of two parallel wooden sleds secured by SLS printed Nylon 12 bulkheads that incorporated slits for the sleds to be inserted into and cylindrical protrusions to fill with black powder for separation charges. These sleds served as the mounting surface for the altimeters, barometers, and accelerometers used to control flight event timing. The bulkheads were clamped around a section of fiberglass coupler using threaded rods that ran the length of the electronics bay.
 
 <figure>
-    <img src="/mnt/nas-share/ryan/ryan-projects/Website Media/E-bay.jpg" alt="E-bay held in hand" style="width:100%">
+    <img src="/media/Website Media/E-bay.jpg" alt="E-bay held in hand" style="width:100%">
     <figcaption>Fig 2. Rocket electronics bay fully assembled showing the grey bulkheads sandwiching the green fiberglass coupler and the wooden standoff bulkhead used to shorten the upper parachute bay</figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ Since my certification flight would not be incorporating a payload I had to shor
 Once the rocket was assembled for all components but the fins I found the actual mass and CG of the rocket and updated my 2D sim to account for this. This allowed me to decide on a final fin shape that produced a stable CAL off the rail.
 
 <figure>
-    <img src="/mnt/nas-share/ryan/ryan-projects/Website Media/OR L1L2 1.PNG" alt="Open rocket simulation free body diagram" style="width:100%">
+    <img src="/media/Website Media/OR L1L2 1.PNG" alt="Open rocket simulation free body diagram" style="width:100%">
     <figcaption>Fig 3. Final OpenRocket 2D simulation of the rocket airframe incorporating final fin shape.</figcaption>
 </figure>
 This final fin design was then SLS printed out of Nylon 12 and the removable fin motor section was assembled. The fins were designed to be removable to accommodate large changes to the rocket's CG due to the variance of its future payloads. Fin design flexibility allows for the center of pressure of the rocket to remain easily modifiable, enabling a greater range of potential payloads.
@@ -41,13 +41,13 @@ This final fin design was then SLS printed out of Nylon 12 and the removable fin
 
 <div class="image-container">
     <div class="image-wrapper">
-        <img src="/mnt/nas-share/ryan/ryan-projects/Website Media/IMG_3904.jpg" alt="Fin can assembly stage 1">
+        <img src="/media/Website Media/IMG_3904.jpg" alt="Fin can assembly stage 1">
     </div>
     <div class="image-wraper">
-        <img src="/mnt/nas-share/ryan/ryan-projects/Website Media/IMG_3906.jpg" alt="Fin can assembly stage 2">
+        <img src="/media/Website Media/IMG_3906.jpg" alt="Fin can assembly stage 2">
     </div>
     <div class="image-wrapper">
-        <img src="/mnt/nas-share/ryan/ryan-projects/Website Media/IMG_3907.jpg" alt="Fin can assembly stage 3">
+        <img src="/media/Website Media/IMG_3907.jpg" alt="Fin can assembly stage 3">
     </div>
 </div>
     
@@ -63,10 +63,10 @@ The first ejection test highlighted an issue with the rocket's construction. The
 
 <div class="image-container">
     <div class="image-wrapper">
-        <img src="/mnt/nas-share/ryan/ryan-projects/Website Media/IMG_3917.jpg" alt="Fin can retaining ring failure 1">
+        <img src="/media/Website Media/IMG_3917.jpg" alt="Fin can retaining ring failure 1">
     </div>
     <div class="image-wraper">
-        <img src="/mnt/nas-share/ryan/ryan-projects/Website Media/IMG_3915.jpg" alt="Fin can retaining ring failure 2">
+        <img src="/media/Website Media/IMG_3915.jpg" alt="Fin can retaining ring failure 2">
     </div>
 </div>
     
@@ -80,13 +80,13 @@ This change was then once again validated through the successful ejection test s
 
 <div class="image-container">
     <div class="image-wrapper">
-        <img src="/mnt/nas-share/ryan/ryan-projects/Website Media/DSC_0150.jpg" alt="Ejection test stage 1">
+        <img src="/media/Website Media/DSC_0150.jpg" alt="Ejection test stage 1">
     </div>
     <div class="image-wraper">
-        <img src="/mnt/nas-share/ryan/ryan-projects/Website Media/DSC_0152.jpg" alt="Ejection test stage 2">
+        <img src="/media/Website Media/DSC_0152.jpg" alt="Ejection test stage 2">
     </div>
     <div class="image-wrapper">
-        <img src="/mnt/nas-share/ryan/ryan-projects/Website Media/DSC_0153.jpg" alt="Ejection test stage 3">
+        <img src="/media/Website Media/DSC_0153.jpg" alt="Ejection test stage 3">
     </div>
 </div>
     
@@ -97,5 +97,5 @@ This change was then once again validated through the successful ejection test s
 Both L1 and L2 flights were successful for this rocket but had a few important takeaways for future designs. Although my rocket had a stable average CAL of 2.5 the CAL off the rail was around 1.6 and there was visually a bit of wobble in its takeoff. This was resolved during my L2 flight thanks to the greater acceleration of the rocket due to the larger motor. During the building process my rocket quickly accumulated more weight than I had originally projected which is part of what led to the low off the rail CAL for the L1 flight. I will have to more conscious of weight budget in future builds.
 
 <video controls width="100%" preload="metadata">
-  <source src="/mnt/nas-share/ryan/ryan-projects/Website Media/23 - Ryan L1.mp4" type="video/mp4">
+  <source src="/media/Website Media/23 - Ryan L1.mp4" type="video/mp4">
 </video>

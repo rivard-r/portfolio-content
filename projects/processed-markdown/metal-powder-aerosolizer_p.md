@@ -8,6 +8,6 @@ status: complete
 ---
 
 <h1>Capstone White Paper</h1>
-    <object data="/mnt/nas-share/ryan/ryan-projects/Website Media/Exec Summary Metal Powder Aerosolizer.pdf" type="application/pdf" width="100%" height="500px">
-      <p>Unable to display PDF file. <a href="/mnt/nas-share/ryan/ryan-projects/Website Media/Exec Summary Metal Powder Aerosolizer.pdf">Download</a> instead.</p>
+    <object data="/media/Website Media/Exec Summary Metal Powder Aerosolizer.pdf" type="application/pdf" width="100%" height="500px">
+        <p>Unable to display PDF file. <a href="/media/Website Media/Exec Summary Metal Powder Aerosolizer.pdf">Download</a> instead.</p>
     </object>
