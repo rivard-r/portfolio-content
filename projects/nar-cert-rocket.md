@@ -53,7 +53,7 @@ This final fin design was then SLS printed out of Nylon 12 and the removable fin
 </div>
     
 <div class="caption">
-        <p>Fig 4. Fin can assembly showing a single fin slotted in its centering ring (left) and the completed assembly of all 3 fins sandwiched between two centering rings (right).</p>
+        <p>Fig 4. Fin can assembly showing a single fin slotted in its centering ring (left) and the completed assembly of all 3 fins sandwiched between two centering rings (right)</p>
 </div>
 
 The retention system of this removable fin assembly (shown above) involved the addition of tabs onto either end of the inner spine of the fins. These tabs would then be inserted into receiving cutouts on the two centering rings. These centering rings were laser cut out of 1/4" thick pine wood. The rings were compressed against the fin spines using the threaded rod that ran the length of the motor section. Nuts were attached on either end of the assembly and tightened down until adequate compression was achieved.
@@ -92,7 +92,7 @@ This change was then once again validated through the successful ejection test s
 </div>
     
 <div class="caption">
-        <p>Fig 6. Frame by frame of the parachute ejection test for the lower parachute bay.</p>
+        <p>Fig 6. Frame by frame of the parachute ejection test for the lower parachute bay</p>
 </div>
 
 Both L1 and L2 flights were successful for this rocket but had a few important takeaways for future designs. Although my rocket had a stable average CAL of 2.5 the CAL off the rail was around 1.6 and there was visually a bit of wobble in its takeoff. This was resolved during my L2 flight thanks to the greater acceleration of the rocket due to the larger motor. During the building process my rocket quickly accumulated more weight than I had originally projected which is part of what led to the low off the rail CAL for the L1 flight. I will have to more conscious of weight budget in future builds.
