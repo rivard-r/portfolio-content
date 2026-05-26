@@ -44,7 +44,7 @@ This final fin design was then SLS printed out of Nylon 12 and the removable fin
     <div class="image-wrapper">
         <img src="/media/Website Media/IMG_3904.jpg" alt="Fin can assembly stage 1">
     </div>
-    <div class="image-wraper">
+    <div class="image-wrapper">
         <img src="/media/Website Media/IMG_3906.jpg" alt="Fin can assembly stage 2">
     </div>
     <div class="image-wrapper">
@@ -66,7 +66,7 @@ The first ejection test highlighted an issue with the rocket's construction. The
     <div class="image-wrapper">
         <img src="/media/Website Media/IMG_3917.jpg" alt="Fin can retaining ring failure 1">
     </div>
-    <div class="image-wraper">
+    <div class="image-wrapper">
         <img src="/media/Website Media/IMG_3915.jpg" alt="Fin can retaining ring failure 2">
     </div>
 </div>
