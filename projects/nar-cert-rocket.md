@@ -1,7 +1,7 @@
 ---
 title: High Powered Rocketry Certification Rocket
 date: 2020-09-20
-tags:[Rocketry]
+tags: [Rocketry]
 thumbnail_color: "#1c1c1c"
 summary: Sucessful NAR L2 certification with fiberglass airframe, printed fins, and dual deploy parachutes.
 status: complete
