@@ -36,6 +36,7 @@ Once the rocket was assembled for all components but the fins I found the actual
     <img src="/media/Website Media/OR L1L2 1.PNG" alt="Open rocket simulation free body diagram" style="width:100%">
     <figcaption>Fig 3. Final OpenRocket 2D simulation of the rocket airframe incorporating final fin shape.</figcaption>
 </figure>
+
 This final fin design was then SLS printed out of Nylon 12 and the removable fin motor section was assembled. The fins were designed to be removable to accommodate large changes to the rocket's CG due to the variance of its future payloads. Fin design flexibility allows for the center of pressure of the rocket to remain easily modifiable, enabling a greater range of potential payloads.
 
 
@@ -82,7 +83,7 @@ This change was then once again validated through the successful ejection test s
     <div class="image-wrapper">
         <img src="/media/Website Media/DSC_0150.jpg" alt="Ejection test stage 1">
     </div>
-    <div class="image-wraper">
+    <div class="image-wrapper">
         <img src="/media/Website Media/DSC_0152.jpg" alt="Ejection test stage 2">
     </div>
     <div class="image-wrapper">
