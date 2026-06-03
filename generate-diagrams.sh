@@ -17,7 +17,7 @@ do
   FILE_NAME=${FILE_PATH_EXTENSION_TRIMMED##${PROJECTS_DIR}/}
   echo "File name: ${FILE_NAME}" 
   if [[ ${FILE_NAME} != i_* ]]; then
-    mmdc -i "${file}" -o "${PROCESSED_MARKDOWN_DIR}/${FILE_NAME##*\/}_p.md" \
+    mmdc --backgroundColor transparent -i "${file}" -o "${PROCESSED_MARKDOWN_DIR}/${FILE_NAME##*\/}_p.md" \
     -a "${DIAGRAMS_DIR}"
   fi
 done
