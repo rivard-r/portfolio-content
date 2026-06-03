@@ -12,10 +12,10 @@ status: in-progress
 In the unending pursuit of features that increase user engagement, modern webstacks can suffer from bloat, leading to unresponsive latency and excessive hardware requirements. The guiding priciple for this website was minimalism; I built the project from the ground up, being very intentional about each dependnecy added to the stack. The result was a highly responsive CSS/HTML native site capable of running on a raspberry-pi 3B without sacrificng any functionality.
 
 ## Architecture
-![diagram](./../diagrams/self-hosted-cloud_p-1.svg)
+![diagram](/diagrams/self-hosted-cloud_p-1.svg)
 
 ## Current status
 
 This site in its present state. The backend pulls tagged entries from my Obsidian engineering notebook's markdown files and generates a new page for that project using Jinja templates. 
 
-![diagram](./../diagrams/self-hosted-cloud_p-2.svg)
+![diagram](/diagrams/self-hosted-cloud_p-2.svg)

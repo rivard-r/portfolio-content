@@ -21,3 +21,8 @@ do
     -a "${DIAGRAMS_DIR}"
   fi
 done
+
+for file in ${PROCESSED_MARKDOWN_DIR}/*.md
+do
+  sed -i 's/\.\/\.\.\/diagrams/\/diagrams/g' ${file}
+done
